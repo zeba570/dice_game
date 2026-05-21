@@ -5,6 +5,7 @@ game
 A fun and interactive Python dice game with exciting features like lucky numbers, score tracking, rolling animations, attempt counter, and game statistics.
 
 🚀 Features
+
 🎲 Roll two dice randomly
 👤 Player name system
 🎯 Lucky number challenge
